@@ -18,9 +18,9 @@ Guidelines
 --------------------
 - [ ] Убедиться, что вы в slack-чате
 - [ ] [Если нет] завести аккаунт на GitHub
-- [ ] Сделать форк данного репозитория с материалами
+- [x] Сделать форк данного репозитория с материалами
 - [ ] Добавить в ваш новый репо своих менторов как коллабораторов
-- [ ] Установить jdk ≥11 и IntelliJ IDEA
+- [x] Установить jdk ≥11 и IntelliJ IDEA
 
 Контакты
 --------
@@ -36,27 +36,27 @@ Java Application Building <sup>1 вебинар, 1 неделя</sup>
 -------------------------
 
 ### Local GIT versioning workflow <sup>15 мин</sup>
-- [ ] Why VCS? cool!!!!!
-- [ ] Local repo
-- [ ] Commit
+- [x] Why VCS? cool!!!!!
+- [x] Local repo
+- [x] Commit
 - content: files A/M/D
 - hash/id
 - message
-- [ ] Branch
+- [x] Branch
 - `git log`
 
 ### Remote GIT versioning workflow <sup>15</sup>
-- [ ] Remote repo
+- [x] Remote repo
 - alias: `origin`
-- [ ] Clone
+- [x] Clone
 - mirror branches
-- [ ] Push
-- [ ] Pull
+- [x] Push
+- [x] Pull
 
 ### Managing PRs with GitHub <sup>10</sup>
-- [ ] [PR workflow](https://www.earthdatascience.org/images/earth-analytics/git-version-control/git-fork-emphasis.png)
-- [ ] Forks
-- [ ] Pull Requests
+- [x] [PR workflow](https://www.earthdatascience.org/images/earth-analytics/git-version-control/git-fork-emphasis.png)
+- [x] Forks
+- [x] Pull Requests
 - one-way
 - another-way
 
